@@ -12,13 +12,9 @@ Usage:
 2. Paste all the repositories line by line that you need to `ListRepos` file
 3. Run command:
 `
-./loc.sh $(your language)
+./loc.sh
 `
 
-$(your language) is the extension of your code files, it can be
-
-- "js" for Javascript
-
-- "php" for PHP
+Current it support `Javascript` only!
 
 And so on. Currently the project support only one choice.
