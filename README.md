@@ -15,6 +15,4 @@ Usage:
 ./loc.sh
 `
 
-Current it support `Javascript` only!
-
-And so on. Currently the project support only one choice.
+Current it support `Javascript` only.
